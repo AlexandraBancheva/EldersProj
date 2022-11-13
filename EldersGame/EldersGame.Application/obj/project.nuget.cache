@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wnNPjOsvsj2Zvz1fP+cur0c8omQdygk12aPcZzwkgH2YV/xtk4Cr8zpHzNNKTXOnXRcds3gEJ2huncfJfkOb3w==",
+  "dgSpecHash": "D3u6AbtIgBB3oz3gWiGFbXB2s3t6SKD88EXhRD6Q8X1NgmLLtbNljBeysVD2RQnO2LSEwjB3Wj/cp9CIjVf2GQ==",
   "success": true,
-  "projectFilePath": "D:\\Sources\\EldersGame\\EldersGame.Application\\EldersGame.Application.csproj",
+  "projectFilePath": "D:\\Sources\\Elders-Game\\EldersGame\\EldersGame.Application\\EldersGame.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

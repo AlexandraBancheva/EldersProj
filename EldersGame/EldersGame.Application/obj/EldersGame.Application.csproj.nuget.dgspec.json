@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Sources\\EldersGame\\EldersGame.Application\\EldersGame.Application.csproj": {}
+    "D:\\Sources\\Elders-Game\\EldersGame\\EldersGame.Application\\EldersGame.Application.csproj": {}
   },
   "projects": {
-    "D:\\Sources\\EldersGame\\EldersGame.Application\\EldersGame.Application.csproj": {
+    "D:\\Sources\\Elders-Game\\EldersGame\\EldersGame.Application\\EldersGame.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Sources\\EldersGame\\EldersGame.Application\\EldersGame.Application.csproj",
+        "projectUniqueName": "D:\\Sources\\Elders-Game\\EldersGame\\EldersGame.Application\\EldersGame.Application.csproj",
         "projectName": "EldersGame.Application",
-        "projectPath": "D:\\Sources\\EldersGame\\EldersGame.Application\\EldersGame.Application.csproj",
+        "projectPath": "D:\\Sources\\Elders-Game\\EldersGame\\EldersGame.Application\\EldersGame.Application.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "D:\\Sources\\EldersGame\\EldersGame.Application\\obj\\",
+        "outputPath": "D:\\Sources\\Elders-Game\\EldersGame\\EldersGame.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

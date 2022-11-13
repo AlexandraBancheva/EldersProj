@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ST+KuYNX6l6e9k5JeGGtSk4YX0DRFRR5LIOyXuLyjJeCtsWs+ESLMMQD0fxRXE+4A1KNwvTQkeWrOXFrDLdaAQ==",
+  "dgSpecHash": "QNhRt43TaLLH5Ym8Kvmg3Bo65NVgKTKiT1PGj5y1XV7B6xaSwDJs6K53viLtBNqUGG9kBCuKmcQST+A2i6cc3Q==",
   "success": true,
-  "projectFilePath": "D:\\Sources\\EldersGame\\EldersGame\\EldersGame.WebAPI.csproj",
+  "projectFilePath": "D:\\Sources\\Elders-Game\\EldersGame\\EldersGame\\EldersGame.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\dapper.simplecrud.netcore\\1.0.0\\dapper.simplecrud.netcore.1.0.0.nupkg.sha512",

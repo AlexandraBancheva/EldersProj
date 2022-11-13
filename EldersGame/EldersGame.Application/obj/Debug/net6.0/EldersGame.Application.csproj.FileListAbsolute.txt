@@ -22,3 +22,15 @@ D:\Sources\Elders\EldersGame\EldersGame.Application\obj\Debug\net6.0\EldersGame.
 D:\Sources\Elders\EldersGame\EldersGame.Application\obj\Debug\net6.0\refint\EldersGame.Application.dll
 D:\Sources\Elders\EldersGame\EldersGame.Application\obj\Debug\net6.0\EldersGame.Application.pdb
 D:\Sources\Elders\EldersGame\EldersGame.Application\obj\Debug\net6.0\ref\EldersGame.Application.dll
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\bin\Debug\net6.0\EldersGame.Application.deps.json
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\bin\Debug\net6.0\EldersGame.Application.dll
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\bin\Debug\net6.0\EldersGame.Application.pdb
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\obj\Debug\net6.0\EldersGame.Application.csproj.AssemblyReference.cache
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\obj\Debug\net6.0\EldersGame.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\obj\Debug\net6.0\EldersGame.Application.AssemblyInfoInputs.cache
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\obj\Debug\net6.0\EldersGame.Application.AssemblyInfo.cs
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\obj\Debug\net6.0\EldersGame.Application.csproj.CoreCompileInputs.cache
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\obj\Debug\net6.0\EldersGame.Application.dll
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\obj\Debug\net6.0\refint\EldersGame.Application.dll
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\obj\Debug\net6.0\EldersGame.Application.pdb
+D:\Sources\Elders-Game\EldersGame\EldersGame.Application\obj\Debug\net6.0\ref\EldersGame.Application.dll

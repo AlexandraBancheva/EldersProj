@@ -37,14 +37,10 @@ namespace EldersGame.API.Controllers
             return Ok();
         }
 
-        [HttpPost]
+        [HttpPut]
         [Route(nameof(AddGamePrice))]
-        public IActionResult AddGamePrice([FromQuery] int id, double price)
+        public IActionResult AddGamePrice([FromQuery] int id, [FromQuery] double price)
         {
-            if (price < 0)
-            {
-                throw new InvalidOperationException($"The price cannot be less negative.");
-            }
             _gamesService.AddGamePrice(id, price);
             return Ok();
         }

@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "6ndkTFLX4rVc+EudDaNl10lIyKitjlzercbWbtI/1Ww=",
-  "Source": "EldersGame.API",
-  "BasePath": "_content/EldersGame.API",
+  "Hash": "xcuTF1ZDq2HCbtszyCR/M4aXmuTXMjzlPM3ULVIWoFc=",
+  "Source": "EldersGame.WebAPI",
+  "BasePath": "_content/EldersGame.WebAPI",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

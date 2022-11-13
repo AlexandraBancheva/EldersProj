@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wQaV1lV0j0uUVjCGDw8C7UAlw3lxlnAR9vLIwzjovOlnmPZjgX4sCOnTvjmU6ipoKaRtlUVS7Q57I4SLjqyx5A==",
+  "dgSpecHash": "Ap68Hss1HThsl5AsJfy8aqDhWj2i5jqrSDTIs+Q+I+ZwdpYADbseu/RjbUU08xwGHYAnmsnWIV6CUH30Ft0GXw==",
   "success": true,
-  "projectFilePath": "D:\\Sources\\EldersGame\\EldersGame.Persistance\\EldersGame.Persistence.csproj",
+  "projectFilePath": "D:\\Sources\\Elders-Game\\EldersGame\\EldersGame.Persistance\\EldersGame.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\dapper.simplecrud.netcore\\1.0.0\\dapper.simplecrud.netcore.1.0.0.nupkg.sha512",
