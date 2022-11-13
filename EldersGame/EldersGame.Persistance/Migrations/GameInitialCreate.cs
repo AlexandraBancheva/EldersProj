@@ -16,7 +16,7 @@ namespace EldersGame.Persistence.Migrations
                 .WithColumn("Id").AsInt32().NotNullable().PrimaryKey().Identity()
                 .WithColumn("TagId").AsInt32().NotNullable()
                 .WithColumn("GenreId").AsInt32().NotNullable()
-                .WithColumn("Price").AsDouble();
+                .WithColumn("Price").AsDouble().Nullable();
         }
     }
 }
